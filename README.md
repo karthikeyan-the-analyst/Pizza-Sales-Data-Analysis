@@ -1,6 +1,6 @@
 # Pizza Sales--DataAnalysis using SQL & PowerBI
 
-Projct Name: Pizza Sales Analysis This Project involves analyzing the dataset of Pizza Sales by using SQL and Power BI. The main objective of the projects are :
+Project Name: Pizza Sales Analysis This Project involves analyzing the dataset of Pizza Sales by using SQL and Power BI. The main objective of the projects are :
 
 1. KPI's Requirement: We need to analyse Key Indicators for our Pizza Sales Data to gain insights into our bussiness performance.Specifically we want to calculate the Following Metrics:
 
